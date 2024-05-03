@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.joken {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    gap: 3%;
+}
+
+.po{
+    padding: 15px;
+    color: #f9f9f9;
+    cursor:pointer;
+}
+
+.pe{
+    background-color: brown
+}
+
+.te{
+    background-color: black;
+}
+
+.pa{
+    color: black;
+}
