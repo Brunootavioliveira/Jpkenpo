@@ -25,6 +25,6 @@ function jogar(escolhaDoJogador){
     else{
         resultado = "Você venceu!"
     }
-    console.log(escolhaPC)
+    document.getElementById('escolhaPc').innerText = (`O PC escolheu: ${escolhaPC}`)
     document.getElementById('resultado').innerText = resultado
 }
