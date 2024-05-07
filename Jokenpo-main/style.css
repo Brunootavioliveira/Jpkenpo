@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    content: "";
+    display: block;
+    position: absolute;
+}
+
+.desafio{
+    width: 205%;
+    height: 60rem;
+}
+
+.joken {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    position: absolute;
+    color: white;
+    top: 800px;
+    left: 95%;
+    right: 40px;
+    transform: translate(-50%, -50%);
+}
+
+.po{
+    padding: 15px;
+    color: #f9f9f9;
+    cursor:pointer;
+}
+
+.pe{
+    background-color: brown
+}
+
+.te{
+    background-color: black;
+}
+
+.pa{
+    color: black;
+}
+
+.jppt {
+    width: 50px;
+}
