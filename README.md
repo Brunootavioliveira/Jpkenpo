@@ -3,12 +3,12 @@
 
 # Sobre o projeto
 
-Neste Projeto foi feito um jogo chamado JokenPo, tendo a lógica de (Papel>Pedra) (Papel<Tesoura) (Papel=Papel) (Pedra>Tesoura) (Pedra=Pedra), sabendo disso, as demais variações são intuitivas, sabendo dessa lógica.<br>
+Neste Projeto foi feito um jogo chamado JokenPo, tendo a lógica de (Papel>Pedra) (Papel<Tesoura) (Papel=Papel) (Pedra>Tesoura) (Pedra=Pedra), sabendo disso, as demais variações são intuitivas, derivando dessa lógica.<br>
 
 Foi feito com algumas particularidades interessantes, como a escolha aleatória do programa, contra o jogador, sendo usado JavaScript.
 
 ## Layout web
-![Web 1](https://github.com/Brunootavioliveira/Vinheria_projeto/blob/main/web_img1/web_vinheria_bemvindo1.png)
+![Web 1](https://github.com/Brunootavioliveira/Jokenpo/blob/main/layout/layout_joken.png)
 
 # Tecnologias utilizadas
 
